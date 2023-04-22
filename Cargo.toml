@@ -1,0 +1,18 @@
+[package]
+name = "rustwemoji"
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+description = "Twemoji for Rust"
+homepage = "https://github.coom/neodyland/rustwemoji"
+repository = "https://github.coom/neodyland/rustwemoji"
+license = "MIT"
+include = [
+    "src/*.rs",
+    "Cargo.toml",
+    "twemoji/assets/72x72/*.png"
+]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

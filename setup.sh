@@ -1,0 +1,2 @@
+rustc prepare.rs
+./prepare
