@@ -1,11 +1,11 @@
 [package]
 name = "rustwemoji"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 readme = "README.md"
 description = "Twemoji for Rust"
-homepage = "https://github.coom/neodyland/rustwemoji"
-repository = "https://github.coom/neodyland/rustwemoji"
+homepage = "https://github.com/neodyland/rustwemoji"
+repository = "https://github.com/neodyland/rustwemoji"
 license = "MIT"
 include = [
     "src/*.rs",
